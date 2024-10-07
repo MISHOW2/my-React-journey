@@ -8,7 +8,7 @@ function App() {
   <>
    <Header/>
    <Hero/>
-   <Cards/>
+   <Cards img="image 12.png"/>
   </>
 
  );
